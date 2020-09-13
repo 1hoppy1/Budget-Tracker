@@ -1,8 +1,7 @@
 {
   "name": "budget",
   "short_name": "budget",
-  "icons": [
-    {
+  "icons": [{
       "src": "/icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
